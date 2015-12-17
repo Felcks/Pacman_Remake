@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CreateTiles.cs">
+    <Files>
+      <File FileName="Assets\Scripts\DecisionTile.cs" Line="25" Column="1" />
+      <File FileName="Assets\Scripts\CreateTiles.cs" Line="64" Column="95" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="128" Column="25" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="36" Column="89" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
